@@ -12,8 +12,11 @@ Alternatively, you can use "http://localhost:8080/swagger-ui/index.html#/".
 Some API Endpoints
 
 GET /api/findByIsCitizen: Retrieves the citizen with the specified ID.
+
 GET /api/getPersonListByChildCount: Retrieves citizens with the requested number of children.
+
 POST /api/addPerson: Adds a new citizen.
+
 For detailed usage examples, please refer to the API documentation.
 
 Contributions
